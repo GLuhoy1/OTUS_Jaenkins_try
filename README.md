@@ -1,2 +1,2 @@
-# OTUS_Jaenkins_try
-try to use Jenkins
+# otus-qa
+Python Otus QA
